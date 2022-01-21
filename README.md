@@ -7,3 +7,13 @@ The outcome of the classifier is a csv file containing the predictions for each 
 
 Before running the classifier: create two empty folder 'zinc' and 'iron', then download and extract the MBS data in the respective folders.
 Link to data <url>
+
+To classify zinc data:
+```
+python ClassifyAllSites.py --metal zinc
+```
+  
+To classify iron data:  
+```
+python ClassifyAllSites.py --metal iron
+```
