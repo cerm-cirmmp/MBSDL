@@ -8,7 +8,7 @@ The outcome of the classifier is a csv file containing the predictions for each 
 Before running the classifier: create two empty folder 'zinc' and 'iron', then download and extract the MBS data in the respective folders.
 Link to data <url>
   
-## How to run the predictor
+### How to run the predictor
 
 To classify zinc data:
 ```
